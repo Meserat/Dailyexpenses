@@ -5,5 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## How to use
 
 Download Source code
-install npm
+
+install
+
 npm start
